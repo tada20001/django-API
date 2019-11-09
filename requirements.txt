@@ -1,0 +1,3 @@
+djangorestframework==3.10.3
+requests
+httpie==1.0.3
